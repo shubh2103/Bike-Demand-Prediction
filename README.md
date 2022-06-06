@@ -1,9 +1,13 @@
 # Bike-Price-Prediction
 
-# In this we have prepared a model which can predict the price of Bike during different circumstances.
+**In this we have prepared a model which can predict the price of Bike during different circumstances.**
+
+All the parameters are :-
+ 1. Hour	2. Hotness	3. Humidity	 4. Wind Speed	5. Visibility	 6. Solar Radiation	 
+ 7. Rainfall	8. Snowfall	 9. Seasons	  10. Holiday  11.	Working Day
 
 We did intense data analysis . Observed the trend during Weeks , Months , Weekdays and in many other way.
-Various models were tried and tested and finally we selected # CATBOOST for our project.
+Various models were tried and tested and finally we selected **CATBOOST** for our project.
 
 # Trend during hours on each and every day
 ![image](https://user-images.githubusercontent.com/85324276/172180711-7213ea37-19a1-498e-a749-289eac81419e.png)
@@ -21,3 +25,6 @@ Various models were tried and tested and finally we selected # CATBOOST for our 
 ![image](https://user-images.githubusercontent.com/85324276/172181122-5100f682-d577-484e-aef8-8f80440e0477.png)
 
 
+# Final result that we got from CatBoost
+RMSE SCORE was :-
+![image](https://user-images.githubusercontent.com/85324276/172182388-18b92443-b72a-44c2-bf57-07a85c52586b.png)
