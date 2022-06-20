@@ -28,3 +28,5 @@ Various models were tried and tested and finally we selected **CATBOOST** for ou
 # Final result that we got from CatBoost
 RMSE SCORE was :-
 ![image](https://user-images.githubusercontent.com/85324276/172182388-18b92443-b72a-44c2-bf57-07a85c52586b.png)
+# Finally the app has been deployed . Hope it works fine . 
+Get it here :- https://bike-demand-predictor.herokuapp.com/
