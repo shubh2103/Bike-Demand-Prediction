@@ -10,7 +10,7 @@ st.title("Bike Demand Prediction")
 
 date = st.text_input('date', 'DD/MM/YYYY')
 hour = st.selectbox('Hour of the day', df['Hour'].unique())
-hotness = st.number_input('Hotness' , 'Hotness recorded at a particular hour(in Kelvin))
+hotness = st.number_input('Hotness' , 'Hotness recorded at a particular hour(in Kelvin)')
 humidity = st.number_input('Humidity' , 'Humidity (in %)')
 wind_speed = st.number_input('Wind Speed' , 'Wind Speed (in km/hr)')
 visibility = st.number_input('Visibility' , 'Visibility (in m)')
