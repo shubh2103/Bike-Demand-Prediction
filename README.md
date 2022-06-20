@@ -30,3 +30,8 @@ RMSE SCORE was :-
 ![image](https://user-images.githubusercontent.com/85324276/172182388-18b92443-b72a-44c2-bf57-07a85c52586b.png)
 # Finally the app has been deployed . Hope it works fine . 
 Get it here :- https://bike-demand-predictor.herokuapp.com/
+
+**Some pics of the website**
+![image](https://user-images.githubusercontent.com/85324276/174681000-2e976558-4251-46df-96ba-6dfc24c64dd5.png)
+
+![image](https://user-images.githubusercontent.com/85324276/174681035-cc601991-1207-42cc-945c-e7e70bc955ba.png)
